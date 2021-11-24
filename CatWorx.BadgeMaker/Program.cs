@@ -1,7 +1,8 @@
 ﻿using CatWorx.BadgeMaker;
 
 List<Employee> employees = GetEmployees();
-PrintEmployees(employees);
+Util.PrintEmployees(employees);
+Util.MakeCSV(employees);
 
 static List<Employee> GetEmployees()
 {
@@ -23,21 +24,11 @@ static List<Employee> GetEmployees()
         string lastName = Console.ReadLine();
         Console.Write("Enter ID: ");
         int id = Int32.Parse(Console.ReadLine());
-        Console.Write("Enter Photo URL:");
-        string photoUrl = Console.ReadLine();
+        string photoUrl = "https://placekitten.com/300/300";
         Employee currentEmployee = new Employee(firstName, lastName, id, photoUrl);
         employees.Add(currentEmployee);
     }
     return employees;
-}
-
-static void PrintEmployees(List<Employee> employees)
-{
-    for (int i = 0; i < employees.Count; i++)
-    {
-        string template = "{0,-10}\t{1,-20}\t{2}";
-        Console.WriteLine(String.Format(template, employees[i].GetId(), employees[i].GetName(), employees[i].GetPhotoUrl()));
-    }
 }
 
 
