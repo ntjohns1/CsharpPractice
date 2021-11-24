@@ -1,0 +1,15 @@
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/bin/Debug/net6.0/CatWorx.BadgeMaker
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/bin/Debug/net6.0/CatWorx.BadgeMaker.deps.json
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/bin/Debug/net6.0/CatWorx.BadgeMaker.runtimeconfig.json
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/bin/Debug/net6.0/CatWorx.BadgeMaker.dll
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/bin/Debug/net6.0/ref/CatWorx.BadgeMaker.dll
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/bin/Debug/net6.0/CatWorx.BadgeMaker.pdb
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/obj/Debug/net6.0/CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/obj/Debug/net6.0/CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/obj/Debug/net6.0/CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/obj/Debug/net6.0/CatWorx.BadgeMaker.AssemblyInfo.cs
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/obj/Debug/net6.0/CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/obj/Debug/net6.0/CatWorx.BadgeMaker.dll
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/obj/Debug/net6.0/ref/CatWorx.BadgeMaker.dll
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/obj/Debug/net6.0/CatWorx.BadgeMaker.pdb
+/Users/nelsonjohns/Library/Mobile Documents/com~apple~CloudDocs/Coding/csharpPractice/CatWorx.BadgeMaker/obj/Debug/net6.0/CatWorx.BadgeMaker.genruntimeconfig.cache
